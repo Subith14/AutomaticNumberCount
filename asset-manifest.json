@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AutomaticNumberCount/static/css/main.e3e57a04.css",
+    "main.js": "/AutomaticNumberCount/static/js/main.81224954.js",
+    "index.html": "/AutomaticNumberCount/index.html",
+    "main.e3e57a04.css.map": "/AutomaticNumberCount/static/css/main.e3e57a04.css.map",
+    "main.81224954.js.map": "/AutomaticNumberCount/static/js/main.81224954.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3e57a04.css",
+    "static/js/main.81224954.js"
+  ]
+}
